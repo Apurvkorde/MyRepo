@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="75420" started-at="2022-05-12T19:30:25 IST" finished-at="2022-05-12T19:31:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="75420" started-at="2022-05-12T19:30:25 IST" finished-at="2022-05-12T19:31:40 IST">
+      <class name="jbktest.LoginAddUserTest">
+        <test-method status="PASS" signature="opendahboard()[pri:0, instance:jbktest.LoginAddUserTest@37d31475]" name="opendahboard" is-config="true" duration-ms="5066" started-at="2022-05-12T19:30:50 IST" finished-at="2022-05-12T19:30:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendahboard -->
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:jbktest.LoginAddUserTest@37d31475]" name="verifytitle" duration-ms="6544" started-at="2022-05-12T19:30:55 IST" finished-at="2022-05-12T19:31:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+      </class> <!-- jbktest.LoginAddUserTest -->
+      <class name="jbktest.LoginDownlaodTest">
+        <test-method status="PASS" signature="opendownloads()[pri:0, instance:jbktest.LoginDownlaodTest@1d8d30f7]" name="opendownloads" is-config="true" duration-ms="7519" started-at="2022-05-12T19:31:31 IST" finished-at="2022-05-12T19:31:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendownloads -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:jbktest.LoginDownlaodTest@1d8d30f7]" name="verifyTitle" duration-ms="1643" started-at="2022-05-12T19:31:39 IST" finished-at="2022-05-12T19:31:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- jbktest.LoginDownlaodTest -->
+      <class name="jbktest.LoginUsefullTest">
+        <test-method status="PASS" signature="openoperators()[pri:0, instance:jbktest.LoginUsefullTest@32d2fa64]" name="openoperators" is-config="true" duration-ms="8392" started-at="2022-05-12T19:31:21 IST" finished-at="2022-05-12T19:31:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openoperators -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:jbktest.LoginUsefullTest@32d2fa64]" name="verifyTitle" duration-ms="1176" started-at="2022-05-12T19:31:30 IST" finished-at="2022-05-12T19:31:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- jbktest.LoginUsefullTest -->
+      <class name="jbktest.LoginUsersTest">
+        <test-method status="PASS" signature="opendahboard()[pri:0, instance:jbktest.LoginUsersTest@27808f31]" name="opendahboard" is-config="true" duration-ms="6555" started-at="2022-05-12T19:31:01 IST" finished-at="2022-05-12T19:31:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendahboard -->
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:jbktest.LoginUsersTest@27808f31]" name="verifytitle" duration-ms="1373" started-at="2022-05-12T19:31:08 IST" finished-at="2022-05-12T19:31:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+      </class> <!-- jbktest.LoginUsersTest -->
+      <class name="jbktest.Logintest">
+        <test-method status="PASS" signature="opendahboard()[pri:0, instance:jbktest.Logintest@4493d195]" name="opendahboard" is-config="true" duration-ms="15980" started-at="2022-05-12T19:30:25 IST" finished-at="2022-05-12T19:30:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendahboard -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:jbktest.Logintest@4493d195]" name="verifyTitle" duration-ms="1603" started-at="2022-05-12T19:30:41 IST" finished-at="2022-05-12T19:30:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- jbktest.Logintest -->
+      <class name="jbktest.LoginOperatorsTest">
+        <test-method status="PASS" signature="openoperators()[pri:0, instance:jbktest.LoginOperatorsTest@436e852b]" name="openoperators" is-config="true" duration-ms="10906" started-at="2022-05-12T19:31:09 IST" finished-at="2022-05-12T19:31:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openoperators -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:jbktest.LoginOperatorsTest@436e852b]" name="verifyTitle" duration-ms="1442" started-at="2022-05-12T19:31:20 IST" finished-at="2022-05-12T19:31:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- jbktest.LoginOperatorsTest -->
+      <class name="jbktest.LoginDashboardTest">
+        <test-method status="PASS" signature="opendahboard()[pri:0, instance:jbktest.LoginDashboardTest@1a1d6a08]" name="opendahboard" is-config="true" duration-ms="5772" started-at="2022-05-12T19:30:42 IST" finished-at="2022-05-12T19:30:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opendahboard -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:jbktest.LoginDashboardTest@1a1d6a08]" name="verifyTitle" duration-ms="1281" started-at="2022-05-12T19:30:48 IST" finished-at="2022-05-12T19:30:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- jbktest.LoginDashboardTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
